@@ -20,7 +20,6 @@
 function isIsogram(str){
  const normalized = str.replace(/\s/g, '').toLowerCase();
  return normalized.length === new Set(normalized).size
-  
 }
 ```
 -----------------------------------------
