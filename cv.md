@@ -2,7 +2,8 @@
 --------------------------------
 ### Contacts: 
  * Telegram: @Allshalol
-* Discord: @Alexandr268
+ * Discord: @Alexandr268
+ * Gmail: judgeright06@gmail.com
 --------------------------------
 ### About Myself:
 
