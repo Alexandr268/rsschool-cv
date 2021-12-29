@@ -4,6 +4,7 @@
  * Telegram: @Allshalol
  * Discord: @Alexandr268
  * Gmail: judgeright06@gmail.com
+
 --------------------------------
 ### About Myself:
 
@@ -25,4 +26,6 @@ function isIsogram(str){
 ```
 -----------------------------------------
 #### English level:
+
 #### ***A2*** 
+
