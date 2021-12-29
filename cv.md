@@ -4,6 +4,7 @@
  * Telegram: @Allshalol
  * Discord: @Alexandr268
  * Gmail: judgeright06@gmail.com
+
 --------------------------------
 ### About Myself:
 
@@ -21,8 +22,10 @@
 function isIsogram(str){
  const normalized = str.replace(/\s/g, '').toLowerCase();
  return normalized.length === new Set(normalized).size
+
 }
 ```
 -----------------------------------------
 #### English level:
 #### ***A2*** 
+
